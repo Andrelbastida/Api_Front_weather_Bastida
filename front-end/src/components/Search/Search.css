@@ -1,0 +1,17 @@
+.SearchInput{
+    width: 100px;
+    height: 50px;
+    font-size: large;
+
+}
+
+.SearchComponent{
+background-color: gray;
+
+}
+
+.SearchButton{
+    font-size: 30px;
+
+
+}
